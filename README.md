@@ -1,21 +1,30 @@
 <h1>Hi, I'm Muhammad Kashif!👋<br/><a href="https://github.com/MuhammadKashif338">👨‍💻Programmer</a>, <a href="https://www.linkedin.com/in/muhammad-kashif-346436232/">🖥️Computer Systems Engineer, 🤖Machine Learning Enthusiat</h1>
 
+<h2>👨‍💻 Machine Learning Projects:</h2>
+
+- <b>Intelligent Digital Signage (Final Year Design Project)</b>
+  - [Project Repository](https://github.com/mansoormemon/idsense-lib.git)
+
+- <b>Stock Price Predictor</b>
+  - [Project Repository](https://github.com/MuhammadKashif338/Stock_Price_Predictor.git)
+ 
+- <b>Traffic Watch</b>
+  - [Project Repository](https://github.com/mansoormemon/traffic-watch.git)
+
 <h2>👨‍💻 Android Development Projects:</h2>
 
 - <b>Job Finder App</b>
-  - [App Repository](https://github.com/MuhammadKashif338/Job_finder_app.git)
+  - [App Repository](https://github.com/MuhammadKashif338/Job_finder_app.gi)
+
+ - <b>Cabxury (A ride booking App)</b>
+  - [App Repository](https://github.com/MuhammadKashif338/Cabxury-A-cab-booking-application-.git)
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<b><a href="https://www.linkedin.com/in/muhammad-kashif-346436232">🖇️LinkedIn</a></b><br>
+<b><a href="https://www.instagram.com/muhammadkashif338/">🖇️Instagram</a></b>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
