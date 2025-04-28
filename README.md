@@ -21,7 +21,7 @@
 
 🚀 [**Intelligent Digital Signage (Final Year Design Project)**](https://github.com/mansoormemon/idsense-lib.git)  
 A Computer Vision-based project for personalized advertisements using age and gender detection.  
-<b>Tech Used:</b> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![DeepFace](https://img.shields.io/badge/DeepFace-blue?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+<b>Tech Used:</b> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Caffe Model](https://img.shields.io/badge/DeepFace-blue?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
 
